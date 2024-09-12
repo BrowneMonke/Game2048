@@ -1,0 +1,16 @@
+.list-view {
+    -fx-font-family: 'Courier New';
+    -fx-background-color: #FFF8DC;
+}
+
+.title-label {
+    -fx-font-size: 40;
+    -fx-font-weight: 800;
+    -fx-text-fill: #FFF8DC;
+}
+
+.back-button {
+    -fx-font-size: 25;
+    -fx-font-weight: 800;
+    -fx-text-fill: #FFF8DC;
+}
